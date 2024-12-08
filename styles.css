@@ -1,6 +1,6 @@
 body {
     background-color: #79caff;
-    font-family: 'New Super Mario Font U';
+    font-family: "Montserrat";
     align-content: center;
     align-items: center;
     text-align: center;
@@ -13,12 +13,19 @@ body {
 
 }
 
-.new-super-mario-font-u {
+/*.new-super-mario-font-u {
     font-family: "New Super Mario Font U", sans-serif;
     font-optical-sizing: auto;
     font-weight: 500;
     font-style: normal;
 
+} */
+
+.montserrat-body {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
 }
 
 txt {

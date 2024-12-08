@@ -1,25 +1,30 @@
 body {
-    background-color: #21205f;
-    font-family: 'New Super Mario Font U';
+    background-color: #79caff;
+    font-family: "Montserrat";
     align-content: center;
     align-items: center;
     text-align: center;
-    text-decoration: #ffffff;
 }
 
 body {
     background-image: url("banner.png");
     background-repeat: no-repeat;
     background-size: contain;
-    text-decoration: #ffffff;
 }
 
-.new-super-mario-font-u {
+/*.new-super-mario-font-u {
     font-family: "New Super Mario Font U", sans-serif;
     font-optical-sizing: auto;
     font-weight: 500;
     font-style: normal;
-    text-decoration: #ffffff;
+
+} */
+
+.montserrat {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
 }
 
 txt {
