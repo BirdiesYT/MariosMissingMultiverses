@@ -1,0 +1,38 @@
+body {
+    background-color: #79caff;
+    font-family: 'New Super Mario Font U';
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+body {
+    background-image: url("banner.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+
+.new-super-mario-font-u {
+    font-family: "New Super Mario Font U", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+
+}
+
+txt {
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: normal;
+}
+
+.banner {
+    background-color: #79caff50;
+}
+
+img {
+    width: 320px;
+    height: 180px;
+}
