@@ -1,16 +1,17 @@
 body {
-    background-color: #79caff;
+    background-color: #21205f;
     font-family: 'New Super Mario Font U';
     align-content: center;
     align-items: center;
     text-align: center;
+    text-decoration: #ffffff;
 }
 
 body {
     background-image: url("banner.png");
     background-repeat: no-repeat;
     background-size: contain;
-
+    text-decoration: #ffffff;
 }
 
 .new-super-mario-font-u {
@@ -18,7 +19,7 @@ body {
     font-optical-sizing: auto;
     font-weight: 500;
     font-style: normal;
-
+    text-decoration: #ffffff;
 }
 
 txt {
@@ -26,6 +27,7 @@ txt {
     font-weight: 700;
     font-style: normal;
     font-size: medium;
+    text-decoration: #ffffff;
 }
 
 .banner {
