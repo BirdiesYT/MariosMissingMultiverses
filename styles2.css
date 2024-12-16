@@ -13,7 +13,7 @@ body {
 }
 
 
-.montserrat {
+.montserrat-body {
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
     font-weight: 500;
@@ -25,7 +25,6 @@ txt {
     font-weight: 700;
     font-style: normal;
     font-size: medium;
-    text-decoration: #ffffff;
 }
 
 .banner {
@@ -35,4 +34,17 @@ txt {
 img {
     width: 320px;
     height: 180px;
+}
+
+    img.logo {
+        width: 630px;
+        height: 260px;
+    }
+
+.images {
+    background-color: #00000025;
+}
+
+hr {
+    width: contain;
 }

@@ -37,6 +37,11 @@ img {
     height: 180px;
 }
 
+img.logo {
+    width: 630px;
+    height: 260px;
+}
+
 .images {
     background-color: #00000025;
 }
